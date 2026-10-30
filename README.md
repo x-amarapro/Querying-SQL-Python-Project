@@ -18,3 +18,7 @@ Using the Chinook database, I explored sales data to answer three analytical que
 - **SQLite3** – Database connection and SQL execution
 - **Pandas** – Data manipulation and DataFrame creation
 - **Matplotlib** – Data visualization
+
+## ROADMAP PROJECT URL
+
+https://roadmap.sh/projects/querying-sql-python
